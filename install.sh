@@ -1,6 +1,6 @@
-python3 -m venv .venv
+#on3 -m venv .venv
 
-source .venv/bin/activate
+# source .venv/bin/activate
 
 git clone https://github.com/facebookresearch/detectron2.git
 git clone https://github.com/microsoft/unilm.git
@@ -13,4 +13,5 @@ CC=clang CXX=clang++ ARCHFLAGS="-arch x86_64" pip --no-cache-dir install -e dete
 
 pip --no-cache-dir install -r requirements_0.txt
 pip --no-cache-dir install -r requirements_1.txt
+
 
