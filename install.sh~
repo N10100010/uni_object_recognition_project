@@ -1,0 +1,12 @@
+python3 -m venv .venv
+
+source .venv/bin/activate
+
+
+pip install torch 
+pip install wheel
+pip install git+https://github.com/facebookresearch/detectron2.git
+
+pip install -r requirements_0.txt
+pip install -r requirements_1.txt
+

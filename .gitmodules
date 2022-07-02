@@ -1,3 +1,0 @@
-[submodule "unilm"]
-	path = unilm
-	url = https://github.com/microsoft/unilm.git
