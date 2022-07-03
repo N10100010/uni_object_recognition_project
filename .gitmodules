@@ -1,0 +1,7 @@
+[submodule "unilm"]
+	path = unilm
+	url = https://github.com/microsoft/unilm.git
+
+[submodule "detectron2"]
+	path = detectron2
+	url = https://github.com/microsoft/unilm.git
